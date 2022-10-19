@@ -1,4 +1,6 @@
 # Backend - Trivia API
+Backend API for the Trivia quiz game.
+> _**NB**_: The frontend implementation can be found at [Trivia API Frontend](https://github.com/eca-kubi/trivia-api-frontend)
 
 ## Setting up the Backend
 
